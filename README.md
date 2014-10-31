@@ -1,4 +1,4 @@
-Advertise Invaders
+Fukka Monsta
 ==============
 Display your Facebook friends as alien monsters using their location coordinates around the World. Yellow lines on the court are the Equator and the Prime Meridian (so you could get an idea of their position in the Worl). More friends, more monsters!
 
