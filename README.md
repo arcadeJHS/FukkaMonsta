@@ -2,6 +2,8 @@ Advertise Invaders
 ==============
 Display your Facebook friends as alien monsters using their location coordinates around the World. Yellow lines on the court are the Equator and the Prime Meridian (so you could get an idea of their position in the Worl). More friends, more monsters!
 
+Entry for Divshot StaticShowdown 2014 - http://www.staticshowdown.com/
+
 http://www.staticshowdown.com/app/teams/467e7ad70aeafd1918393045a59d9fd6/entry
 
 How to use it
