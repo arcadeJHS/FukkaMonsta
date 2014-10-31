@@ -12,4 +12,5 @@ How to use it
 --------------
 Open the sliding menu on the left side. Connect to your Facebook account. Enjoy your friends transformed into arcade monsters around the world! Using buttons, you can move, zoom in and zoom out the stage.
 
-[1]: https://github.com/arcadeJHS/joystickIno/blob/master/pics/fukkamonsta.png?raw=true
+
+[1]: https://github.com/arcadeJHS/FukkaMonsta/blob/master/pics/fukkamonsta.png
