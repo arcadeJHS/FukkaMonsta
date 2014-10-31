@@ -1,0 +1,10 @@
+1. Create Facebook app
+	- press: + add platform then insert application url (also on local machine)
+	- status & review: set "on"
+
+
+
+
+
+Online app:
+http://www.staticshowdown.com/app/teams/467e7ad70aeafd1918393045a59d9fd6/entry

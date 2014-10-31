@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>JH5</title>
+		<meta name="description" content="JH5">
+		<meta name="keywords" content="facebook, friends, locator" />
+		<meta name="author" content="Matteo Piazza">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+	<body ng-app="app">
+
+		<section navigator></section>
+
+		<h1 style="position: absolute; color: #fff; z-index: 5; padding-left: 2em;">My friends: those fucking monsters!</h1>
+		
+		<div id="commands" ng-controller="commandsController">
+			<button ng-click="move('left')">&lt;</button>
+			<button ng-click="move('right')">&gt;</button>
+			<button ng-click="bigger()">+</button>		
+			<button ng-click="smaller()">-</button>
+		</div>
+
+		<canvas map-canvas draggable="true"></canvas>
+	
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js"></script>
+		<script src="http://pc035860.github.io/angular-easyfb/angular-easyfb.min.js"></script>
+		<script src="assets/js/app.js"></script>
+	</body>
+</html>
