@@ -6,7 +6,7 @@ Entry for Divshot StaticShowdown 2014 - http://www.staticshowdown.com/
 
 http://www.staticshowdown.com/app/teams/467e7ad70aeafd1918393045a59d9fd6/entry
 
-[1]
+![picture][1]
 
 How to use it
 --------------
